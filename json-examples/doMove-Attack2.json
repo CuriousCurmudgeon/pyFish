@@ -1,0 +1,45 @@
+{"stat":"ok"
+,"_content":{"return":{"msg":"success"
+		,"code":"1"
+		,"_content":{"info":{"defenderseatid":"0"
+				,"attackerunits":"11"
+				,"defenderunits":"10"
+				}
+			,"dice":{"ddie":"6"
+				,"adie":"6"
+				}
+			,"possibleactions":{"lastmod":"0"
+				,"_content":{"action":[{"id":"attack"},{"id":"transfer"},{"id":"endturn"}]}
+				}
+			,"results":{"totalattackerlosses":"8"
+				,"eliminate":"0"
+				,"captured":"1"
+				,"totaldefenderlosses":"10"
+				}
+			,"cinfo":{"cardsetstraded":"4"
+				,"nextcardsworth":"8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32"
+				,"numdiscard":"12"
+				,"worth":"8"
+				,"_content":{"player":[{"num":"5","id":"0"},{"num":"3","id":"1"}],"self":{"numW":"0","numA":"0","numB":"1","numC":"2"}}
+				}
+			,"pinfo":{"_content":{
+                "player":[
+                    {"name":"cecil","colorid":"4","isturn":"0","active":"1","teamid":"-1","units":"0","profileid":"kyle20070103142702","id":"0"},
+                    {"active":"1","numfort":"0","profileid":"meek20090116155106","units":"0","name":"The Curmudgeon","colorid":"1","teamid":"-1","id":"1","numattack":"1","isturn":"1"}
+                    ],
+                "self":{"playerid":"1","state":"2"}}
+				}
+			,"attack":[{"defenderleft":"8","defenddice":"2,1","defenderlosses":"2","attackerlosses":"0","attackdice":"3,2,1"}
+				,{"defenderleft":"8","defenddice":"5,2","defenderlosses":"0","attackerlosses":"2","attackdice":"5,2,2"}
+				,{"defenderleft":"8","defenddice":"6,6","defenderlosses":"0","attackerlosses":"2","attackdice":"4,3,1"}
+				,{"defenderleft":"6","defenddice":"5,1","defenderlosses":"2","attackerlosses":"0","attackdice":"6,5,4"}
+				,{"defenderleft":"4","defenddice":"4,2","defenderlosses":"2","attackerlosses":"0","attackdice":"6,4,1"}
+				,{"defenderleft":"3","defenddice":"5,4","defenderlosses":"1","attackerlosses":"1","attackdice":"6,4,3"}
+				,{"defenderleft":"3","defenddice":"4,1","defenderlosses":"0","attackerlosses":"2","attackdice":"3,1,1"}
+				,{"defenderleft":"2","defenddice":"5,4","defenderlosses":"1","attackerlosses":"1","attackdice":"6,3,1"}
+				,{"defenderleft":"0","defenddice":"4,1","defenderlosses":"2","attackerlosses":"0","attackdice":"6,5,2"}
+				]
+			}
+		}
+	}
+}

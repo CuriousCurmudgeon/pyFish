@@ -1,0 +1,10 @@
+--------------Dependencies--------------
+
+ * graphine - http://gitorious.org/projects/graphine/pages/Home
+ 
+--------------Using--------------
+
+Please see RandomBot.py and ContinentBot.py for examples of how
+to create bots. The API is currently very brittle and in flux, but
+those two bots should give working examples with whatever the current
+state is.

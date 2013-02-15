@@ -1,0 +1,22 @@
+{"stat":"ok"
+,"_content":{"return":{"msg":"success"
+		,"code":"1"
+		,"_content":{"info":{"defenderseatid":"0"
+				,"attackerunits":"4"
+				,"defenderunits":"4"
+				}
+			,"dice":{"ddie":"6"
+				,"adie":"6"
+				}
+			,"possibleactions":{"lastmod":"0"
+				,"_content":{"action":[{"id":"attack"},{"id":"transfer"},{"id":"endturn"}]}
+				}
+			,"results":{"totalattackerlosses":"2"
+				,"totaldefenderlosses":"0"
+				}
+			,"attack":[{"defenderleft":"4","defenddice":"6,5","defenderlosses":"0","attackerlosses":"2","attackdice":"6,5,3"}
+				]
+			}
+		}
+	}
+}
